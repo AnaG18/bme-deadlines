@@ -1,13 +1,13 @@
-title: AI Conference Deadlines
-description: Countdowns to top CV/NLP/ML/Robotics/AI conference deadlines
-author: Abhishek Das
+title: BME Conference Deadlines
+description: Countdowns to a variety of BME relevant conference deadlines
+author: Abhishek Da
 
-domain: "aideadlin.es"
+domain: "bmedeadlines.es"
 baseurl: ""
 
 twitter_hashtag: machinelearning
 github_username: paperswithcode
-github_repo: ai-deadlines
+github_repo: bme-deadlines
 
 markdown: kramdown
 ga_id:
